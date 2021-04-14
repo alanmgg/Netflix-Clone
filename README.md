@@ -1,4 +1,4 @@
-# Netflix clone :speech_balloon:
+# Netflix Clone :speech_balloon:
 
 Proyecto personal que tiene como objetivo clonar la plataforma de Netflix
 
